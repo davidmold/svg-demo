@@ -2,7 +2,10 @@
 
 ## Project setup
 ```
-npm install
+Here is an svg
+
+![Image of logo](src/assets/mylogo.svg)
+
 ```
 
 ### Compiles and hot-reloads for development
