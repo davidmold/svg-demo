@@ -2,26 +2,18 @@
 
 ## Project setup
 
-Here is an svg
+Demo 1
 
-![Image of logo](src/assets/mylogo.svg =200x200)
+<img src="src/assets/mylogo.svg" height="200" width="200">
 
+Demo 2
 
+<img src="src/assets/logo-anim.svg" height="200" width="200">
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Demo 3
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<img src="src/assets/logo-crazy.svg" height="200" width="200">
 
-### Lints and fixes files
-```
-npm run lint
-```
+Demo 4
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="src/assets/logo-dash.svg" height="200" width="200">
