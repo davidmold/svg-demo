@@ -4,7 +4,7 @@
 
 Here is an svg
 
-![Image of logo](src/assets/mylogo.svg)
+![Image of logo](src/assets/mylogo.svg =200x200)
 
 
 

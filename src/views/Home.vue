@@ -10,17 +10,32 @@
     <div class="centered-image">
       <logo-anim class="logo"></logo-anim>
     </div>
+    <div class="centered-image">
+      <logo-transform class="logo"></logo-transform>
+    </div>
+    <div class="centered-image">
+      <logo-crazy class="logo"></logo-crazy>
+    </div>
+    <div class="centered-image">
+      <logo-dash class="logo"></logo-dash>
+    </div>
   </div>
 </template>
 
 <script>
 import LogoSvg from '../components/LogoSvg.vue'
 import LogoAnim from '../components/LogoAnim.vue'
+import LogoTransform from '../components/LogoTransform.vue'
+import LogoCrazy from '../components/LogoCrazy.vue'
+import LogoDash from '../components/LogoDash.vue'
 export default {
   name: 'Home',
   components: {
     LogoSvg,
-    LogoAnim
+    LogoAnim,
+    LogoTransform,
+    LogoCrazy,
+    LogoDash
   }
 }
 </script>
