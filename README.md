@@ -1,6 +1,6 @@
 # svg-demo
 
-## Project setup
+A simple vue app with demos for creating animated SVGs.
 
 Demo 1
 
